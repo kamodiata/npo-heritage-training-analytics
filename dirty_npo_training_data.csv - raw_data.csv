@@ -1,0 +1,101 @@
+Participant_ID,Full_Name,Province_Code,Training_Module,Start_Date,End_Date,Attendance_Pct,Pre_Test_Score,Post_Test_Score,Equipment_Assigned,Equipment_Returned,Funding_Sponsor
+EMP-001,Sibusiso Dlamini,GP,GPR_Spatial_Mapping,2026/01/10,2026-01-24,95%,45,88,GPS_Unit_A1,Yes,SAHRA_Grant
+EMP-002,SARAH VAN DER MERWE,WC,Arch_Site_Cataloguing,12/01/2026,2026-01-26,80%,52,79,Tablet_T04,YES,SAHRA_Grant
+EMP-003,Thabo Mokoena,GP,GPR_Spatial_Mapping,2026-02-01,2026-02-15,100%,30,92,GPS_Unit_A2,Yes,DSAC_Fund
+EMP-004,Lindiwe Khumalo,KZN,Community_Arch_Survey,2026-02-05,2026-02-19,40%,60,55,Dumpy_Level_01,No,DSAC_Fund
+EMP-005,sibusiso dlamini,GP,GPR_Spatial_Mapping,2026/01/10,2026-01-24,95%,45,88,GPS_Unit_A1,Yes,SAHRA_Grant
+EMP-006,Johan Botha,WC,Arch_Site_Cataloguing,2026-02-10,2026-02-24,NULL,55,-10,Tablet_T02,Yes,Private_Donor
+EMP-007,Nokuthula Zungu,KZN,Community_Arch_Survey,2026-03-01,2026-03-15,88%,N/A,82,GPS_Unit_B1,Yes,DSAC_Fund
+EMP-008,Kagiso Lesedi,Gauteng,GPR_Spatial_Mapping,2026/03/05,2026/03/19,105%,40,95,Tablet_T08,Yes,SAHRA_Grant
+EMP-009,Pieter Naude,Western Cape,Arch_Site_Cataloguing,01-03-2026,2026-03-15,75%,48,70,Tablet_T09,no,Private_Donor
+EMP-010,Nomvula Ndlovu,KZN,Community_Arch_Survey,2026-03-10,2026-03-24,90%,50,85,GPS_Unit_B2,Yes,DSAC_Fund
+EMP-011,Anelisa Sithole,GP,GPR_Spatial_Mapping,2026/04/01,2026-04-15,65%,35,58,GPS_Unit_A3,Missing,SAHRA_Grant
+EMP-012,DAVID SMITH,WC,3D_Digital_Preservation,2026-04-05,2026-04-19,100%,70,105,Laser_Scanner_01,Yes,National_Lotteries
+EMP-013,Zanele Cele,KZN,Community_Arch_Survey,2026-04-10,2026-04-24,85%,55,80,Tablet_T12,Yes,DSAC_Fund
+EMP-014,Teboho Molefe,GP,GPR_Spatial_Mapping,2026/05/01,2026-05-15,50%,20,40,GPS_Unit_A4,No,SAHRA_Grant
+EMP-015,Francois Du Plessis,WC,3D_Digital_Preservation,2026-05-05,2026-05-19,92%,62,90,Laser_Scanner_02,YES,National_Lotteries
+EMP-016,SARAH VAN DER MERWE,WC,Arch_Site_Cataloguing,2026/06/02,2026-06-16,78%,50,88,Tablet_A19,Missing,SAHRA_Grant
+EMP-017,tshilidzi smith,LP,GPR_Spatial_Mapping,11/02/2026,2026-02-25,102%,21,69,GPS_Unit_B12,YES,Private_Donor
+EMP-018,Zanele Muller,KZN,GPR_Spatial_Mapping,15-08-2026,2026-08-29,100%,50,89,Dumpy_Level_011,Yes,National_Lotteries
+EMP-019,Teboho Zungu,KZN,3D_Digital_Preservation,2026/04/06,2026-04-20,95%,N/A,93,Dumpy_Level_T17,no,SAHRA_Grant
+EMP-020,Nokuthula Khoza,FS,Community_Arch_Survey,14/05/2026,2026-05-28,96%,62,-10,GPS_Unit_B3,Yes,SAHRA_Grant
+EMP-021,tshilidzi dlamini,NC,Community_Arch_Survey,2026-01-08,2026-01-22,78%,24,89,GPS_Unit_09,YES,Private_Donor
+EMP-022,nomvula smith,Gauteng,3D_Digital_Preservation,2026/06/07,2026-06-21,93%,36,44,Laser_Scanner_08,YES,National_Lotteries
+EMP-023,Lethabo Coetzee,Gauteng,Arch_Site_Cataloguing,12-07-2026,2026-07-26,58%,30,86,Tablet_T6,yes,Private_Donor
+EMP-024,Thabo Mokoena,GP,GPR_Spatial_Mapping,2026-02-01,2026-02-15,100%,30,92,GPS_Unit_A2,Yes,DSAC_Fund
+EMP-025,Nandi Sithole,GP,3D_Digital_Preservation,2026/07/11,2026-07-25,86%,61,50,Tablet_02,YES,SAHRA_Grant
+EMP-026,Nokuthula Sithole,GP,Arch_Site_Cataloguing,2026-01-20,2026-02-03,84%,58,74,Dumpy_Level_T14,Missing,DSAC_Fund
+EMP-027,LETHABO KHUMALO,KZN,3D_Digital_Preservation,04-05-2026,2026-05-18,65%,17,66,GPS_Unit_B12,no,DSAC_Fund
+EMP-028,APHIWE KHOZA,WC,GPR_Spatial_Mapping,2026/05/17,2026-05-31,87%,58,89,Laser_Scanner_018,yes,National_Lotteries
+EMP-029,Nandi Botha,GP,3D_Digital_Preservation,2026-01-05,2026-01-19,89%,39,107,Laser_Scanner_013,Yes,DSAC_Fund
+EMP-030,Kirsten Cele,KZN,Arch_Site_Cataloguing,07/04/2026,2026-04-21,80%,54,67,GPS_Unit_A10,No,Private_Donor
+EMP-031,Kagiso Pillay,KZN,Arch_Site_Cataloguing,15-01-2026,2026-01-29,88%,64,74,Dumpy_Level_B9,yes,DSAC_Fund
+EMP-032,TSHILIDZI CELE,KZN,GPR_Spatial_Mapping,2026/08/13,2026-08-27,51%,31,89,Dumpy_Level_T18,no,Private_Donor
+EMP-033,kirsten ndlovu,Western Cape,3D_Digital_Preservation,11/04/2026,2026-04-25,NULL,25,92,Dumpy_Level_B16,Yes,Private_Donor
+EMP-034,PIETER SITOLE,GP,3D_Digital_Preservation,2026-04-08,2026-04-22,60%,61,53,Dumpy_Level_B2,YES,DSAC_Fund
+EMP-035,Sipho Du Plessis,GP,Arch_Site_Cataloguing,09-08-2026,2026-08-23,73%,61,72,Laser_Scanner_A7,Yes,National_Lotteries
+EMP-036,TSHILIDZI GOVENDER,Gauteng,GPR_Spatial_Mapping,2026-04-04,2026-04-18,88%,N/A,92,GPS_Unit_01,no,SAHRA_Grant
+EMP-037,Aphiwe Sithole,EC,Community_Arch_Survey,13-05-2026,2026-05-27,61%,65,49,Tablet_B12,no,DSAC_Fund
+EMP-038,TSHILIDZI MOKOENA,KwaZulu-Natal,Community_Arch_Survey,17-06-2026,2026-07-01,90%,68,-14,Dumpy_Level_03,yes,DSAC_Fund
+EMP-039,Sibusiso Pillay,KZN,Arch_Site_Cataloguing,2026/03/10,2026-03-24,43%,69,96,GPS_Unit_A15,No,Private_Donor
+EMP-040,Bongani Zungu,GP,3D_Digital_Preservation,2026/07/04,2026-07-18,97%,32,96,GPS_Unit_017,no,SAHRA_Grant
+EMP-041,nomvula smith,Gauteng,3D_Digital_Preservation,2026/06/07,2026-06-21,93%,36,44,Laser_Scanner_08,YES,National_Lotteries
+EMP-042,Kirsten Cele,KZN,3D_Digital_Preservation,2026-02-09,2026-02-23,89%,35,84,Dumpy_Level_017,Yes,SAHRA_Grant
+EMP-043,Nokuthula Van Der Merwe,GP,GPR_Spatial_Mapping,11-04-2026,2026-04-25,97%,70,89,GPS_Unit_A17,no,DSAC_Fund
+EMP-044,thabo smith,Gauteng,Arch_Site_Cataloguing,17/04/2026,2026-05-01,92%,66,92,Tablet_T6,Missing,DSAC_Fund
+EMP-045,Sipho Dlamini,GP,GPR_Spatial_Mapping,2026/06/03,2026-06-17,62%,26,50,Tablet_01,Yes,National_Lotteries
+EMP-046, Willem Pillay,Western Cape,3D_Digital_Preservation,2026/05/01,2026-05-15,108%,52,69,GPS_Unit_A13,yes,DSAC_Fund
+EMP-047,Nokuthula Pillay,EC,Community_Arch_Survey,2026-02-12,2026-02-26,55%,29,48,Dumpy_Level_A7,Yes,Private_Donor
+EMP-048,Teboho Sithole,Western Cape,Community_Arch_Survey,2026-06-19,2026-07-03,80%,32,60,Laser_Scanner_A11,Missing,National_Lotteries
+EMP-049,BONGANI SMITH,GP,3D_Digital_Preservation,08-01-2026,2026-01-22,86%,56,58,GPS_Unit_A11,Yes,National_Lotteries
+EMP-050,Lethabo Smith,NC,GPR_Spatial_Mapping,2026-02-13,2026-02-27,47%,33,40,Laser_Scanner_A15,No,SAHRA_Grant
+EMP-051,Willem Mokoena,NC,Community_Arch_Survey,2026/07/04,2026-07-18,52%,N/A,92,GPS_Unit_T4,no,Private_Donor
+EMP-052,Willem Molefe,KZN,3D_Digital_Preservation,2026-01-05,2026-01-19,77%,35,97,Dumpy_Level_A13,yes,SAHRA_Grant
+EMP-053,PIETER NKOSI,WC,Community_Arch_Survey,2026-05-07,2026-05-21,114%,28,81,Laser_Scanner_T12,Yes,National_Lotteries
+EMP-054,Lethabo Sithole,GP,Community_Arch_Survey,2026-01-07,2026-01-21,98%,41,83,Dumpy_Level_T14,Yes,Private_Donor
+EMP-055,Anelisa Sithole,GP,GPR_Spatial_Mapping,2026/04/01,2026-04-15,65%,35,58,GPS_Unit_A3,Missing,SAHRA_Grant
+EMP-056,Nomvula Mokoena,WC,Arch_Site_Cataloguing,17/02/2026,2026-03-03,42%,47,40,Laser_Scanner_018,Yes,SAHRA_Grant
+EMP-057,JOHAN DLAMINI,MP,Community_Arch_Survey,19/08/2026,2026-09-02,57%,16,63,GPS_Unit_B8,yes,National_Lotteries
+EMP-058,Nandi Pillay,MP,Community_Arch_Survey,07/03/2026,2026-03-21,78%,35,93,Dumpy_Level_T11,Missing,Private_Donor
+EMP-059,Sibusiso Zungu,Western Cape,3D_Digital_Preservation,2026-05-02,2026-05-16,40%,25,64,GPS_Unit_T16,yes,National_Lotteries
+EMP-060,APHIWE KHOZA,Gauteng,Community_Arch_Survey,2026-03-05,2026-03-19,85%,31,89,GPS_Unit_B12,yes,Private_Donor
+EMP-061,KEANU MULLER,GP,GPR_Spatial_Mapping,2026/07/09,2026-07-23,71%,38,63,Tablet_07,Yes,National_Lotteries
+EMP-062,tshilidzi du plessis,GP,GPR_Spatial_Mapping,2026-02-11,2026-02-25,97%,30,86,GPS_Unit_020,No,SAHRA_Grant
+EMP-063, Francois Botha,GP,Community_Arch_Survey,2026-05-19,2026-06-02,96%,18,48,Dumpy_Level_A13,Yes,National_Lotteries
+EMP-064,Francois Dlamini,WC,GPR_Spatial_Mapping,2026/08/16,2026-08-30,47%,N/A,92,Laser_Scanner_A19,No,SAHRA_Grant
+EMP-065,Pieter Naude,Western Cape,Arch_Site_Cataloguing,01-03-2026,2026-03-15,75%,48,70,Tablet_T09,no,Private_Donor
+EMP-066,Nandi Dlamini,Western Cape,GPR_Spatial_Mapping,2026-02-09,2026-02-23,49%,41,86,Dumpy_Level_B16,Yes,National_Lotteries
+EMP-067,Teboho Dlamini,WC,3D_Digital_Preservation,2026/03/08,2026-03-22,66%,18,65,Tablet_A19,Yes,SAHRA_Grant
+EMP-068,Tshilidzi Pillay,KZN,Arch_Site_Cataloguing,19/08/2026,2026-09-02,99%,46,84,Dumpy_Level_A10,Yes,DSAC_Fund
+EMP-069,THABO KHOZA,KZN,3D_Digital_Preservation,2026-06-19,2026-07-03,63%,53,91,Tablet_A18,yes,National_Lotteries
+EMP-070,Zanele Mokoena,Gauteng,3D_Digital_Preservation,04/08/2026,2026-08-18,83%,55,59,Dumpy_Level_B7,yes,SAHRA_Grant
+EMP-071,Pieter Mthembu,Western Cape,Community_Arch_Survey,01/01/2026,2026-01-15,100%,37,64,Dumpy_Level_B12,No,Private_Donor
+EMP-072,Bongani Smit,GP,Community_Arch_Survey,2026-07-16,2026-07-30,109%,60,82,GPS_Unit_07,yes,Private_Donor
+EMP-073,Lethabo Botha,MP,Arch_Site_Cataloguing,12-07-2026,2026-07-26,73%,40,79,GPS_Unit_T10,no,SAHRA_Grant
+EMP-074,Mpho Pillay,Western Cape,Arch_Site_Cataloguing,2026-04-18,2026-05-02,86%,61,86,Laser_Scanner_T6,yes,Private_Donor
+EMP-075,SARAH VAN DER MERWE,WC,Arch_Site_Cataloguing,12/01/2026,2026-01-26,80%,52,79,Tablet_T04,YES,SAHRA_Grant
+EMP-076,Aphiwe Botha,Gauteng,Arch_Site_Cataloguing,2026-08-01,2026-08-15,44%,22,79,GPS_Unit_T12,Missing,Private_Donor
+EMP-077,Teboho Dlamini,Western Cape,3D_Digital_Preservation,2026-02-12,2026-02-26,67%,24,80,Laser_Scanner_T2,no,DSAC_Fund
+EMP-078,Pieter Dlamini,Western Cape,3D_Digital_Preservation,2026-01-07,2026-01-21,95%,66,80,GPS_Unit_A12,Yes,SAHRA_Grant
+EMP-079,NOKUTHULA DLAMINI,Western Cape,GPR_Spatial_Mapping,2026/04/09,2026-04-23,73%,40,94,GPS_Unit_B12,Yes,DSAC_Fund
+EMP-080,Aphiwe Govender,KZN,3D_Digital_Preservation,14/06/2026,2026-06-28,93%,45,105,Laser_Scanner_A14,Yes,DSAC_Fund
+EMP-081,David Maseko,GP,Community_Arch_Survey,19-06-2026,2026-07-03,63%,50,68,Laser_Scanner_B19,yes,DSAC_Fund
+EMP-082,Sipho Du Plessis,WC,3D_Digital_Preservation,2026/06/18,2026-07-02,40%,25,48,Dumpy_Level_T3,yes,DSAC_Fund
+EMP-083,David Dlamini,KZN,3D_Digital_Preservation,13/02/2026,2026-02-27,51%,60,65,Dumpy_Level_B18,Yes,SAHRA_Grant
+EMP-084,THABO SITOLE,Gauteng,GPR_Spatial_Mapping,2026-08-11,2026-08-25,97%,30,81,Tablet_07,Missing,Private_Donor
+EMP-085,Kagiso Maseko,GP,Arch_Site_Cataloguing,2026/01/16,2026-01-30,NULL,N/A,92,Tablet_01,yes,DSAC_Fund
+EMP-086,Kirsten Mokoena,Gauteng,Arch_Site_Cataloguing,2026/05/16,2026-05-30,47%,32,97,GPS_Unit_B8,Yes,National_Lotteries
+EMP-087,Nandi Zungu,GP,3D_Digital_Preservation,2026-02-12,2026-02-26,89%,34,87,Tablet_B9,yes,Private_Donor
+EMP-088,Lethabo Smith,WC,GPR_Spatial_Mapping,2026-04-06,2026-04-20,70%,65,58,GPS_Unit_A17,Yes,National_Lotteries
+EMP-089,Sibusiso Smit,Gauteng,GPR_Spatial_Mapping,2026-01-16,2026-01-30,48%,62,-4,Laser_Scanner_B7,yes,DSAC_Fund
+EMP-090,Bongani Sithole,Gauteng,Community_Arch_Survey,19-06-2026,2026-07-03,43%,65,99,Laser_Scanner_T20,Missing,SAHRA_Grant
+EMP-091,Francois Maseko,GP,GPR_Spatial_Mapping,2026-03-09,2026-03-23,73%,49,79,GPS_Unit_B20,no,DSAC_Fund
+EMP-092,JOHAN KHOZA,WC,GPR_Spatial_Mapping,2026-05-09,2026-05-23,98%,41,89,Dumpy_Level_B1,yes,Private_Donor
+EMP-093,Teboho Botha,FS,GPR_Spatial_Mapping,11-04-2026,2026-04-25,83%,47,40,GPS_Unit_T11,no,SAHRA_Grant
+EMP-094,THABO MOLEFE,KZN,GPR_Spatial_Mapping,2026-05-18,2026-06-01,98%,29,48,Dumpy_Level_B12,no,DSAC_Fund
+EMP-095,LINDIWE CELE,WC,3D_Digital_Preservation,2026-05-02,2026-05-16,56%,36,89,GPS_Unit_020,Missing,SAHRA_Grant
+EMP-096,Sibusiso Du Plessis,EC,Community_Arch_Survey,2026-04-13,2026-04-27,38%,21,81,Dumpy_Level_B5,Yes,Private_Donor
+EMP-097,BONGANI PILLAY,NW,3D_Digital_Preservation,2026-08-20,2026-09-03,37%,68,100,Laser_Scanner_A10,YES,Private_Donor
+EMP-098,Pieter Du Plessis,Gauteng,GPR_Spatial_Mapping,2026-08-20,2026-09-03,65%,33,79,Dumpy_Level_B19,No,DSAC_Fund
+EMP-099,thabo smit,Gauteng,GPR_Spatial_Mapping,2026-07-16,2026-07-30,82%,16,44,Dumpy_Level_B4,no,Private_Donor
+EMP-100,zanele khoza,NC,Arch_Site_Cataloguing,2026/08/16,2026-08-30,43%,75,58,Tablet_A7,Yes,Private_Donor
