@@ -2,7 +2,7 @@
 raining operations ETL pipeline, non-parametric imputation analysis, and asset risk dashboard for Heritage Skills SA
 # 🏛️ Heritage Skills SA: Training Operations & Asset Risk Analytics
 
-![Tableau Dashboard Preview](dashboard/dashboard_preview.png)
+![Tableau Dashboard Preview](dashboard_preview.png)
 
 ## 📌 Executive Summary
 *Heritage Skills SA* conducts field-training modules across South Africa (e.g., Gauteng, Western Cape, KwaZulu-Natal) to upskill community members and researchers in **archeological site documentation, spatial mapping (GPR), and 3D digital preservation**. 
