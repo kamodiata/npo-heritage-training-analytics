@@ -41,6 +41,6 @@ The raw dataset (`raw_npo_training_data.csv`) contained 100 entries with human-e
 ---
 
 ## 💻 Tech Stack & Tools Used
-* **Data Cleaning & Manipulation:** Python (`pandas`, `numpy`, `scikit-learn`)
+* **Data Cleaning & Manipulation:** Python (`pandas`, `numpy`)
 * **Data Visualization & Dashboarding:** Tableau Desktop / Tableau Public
 * **Version Control:** Git & GitHub
